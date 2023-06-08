@@ -1,0 +1,4 @@
+C:\Users\dolorian\Documents\KcellNums\SolutionFinal\reactapp\obj\Release\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\dolorian\Documents\KcellNums\SolutionFinal\reactapp\obj\Release\reactapp.esproj.CoreCompileInputs.cache
+C:\Users\dolorian\Documents\Kkiller\reactapp\obj\Release\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\dolorian\Documents\Kkiller\reactapp\obj\Release\reactapp.esproj.CoreCompileInputs.cache
