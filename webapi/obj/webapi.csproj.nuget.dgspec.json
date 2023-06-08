@@ -4,6 +4,21 @@
     "C:\\Users\\dolorian\\Documents\\Kkiller\\webapi\\webapi.csproj": {}
   },
   "projects": {
+    "C:\\Users\\dolorian\\Documents\\Kkiller\\reactapp\\reactapp.esproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dolorian\\Documents\\Kkiller\\reactapp\\reactapp.esproj",
+        "projectName": "reactapp",
+        "projectPath": "C:\\Users\\dolorian\\Documents\\Kkiller\\reactapp\\reactapp.esproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\dolorian\\Documents\\Kkiller\\webapi\\webapi.csproj": {
       "version": "1.0.0",
       "restore": {

@@ -1713,6 +1713,15 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
+      },
+      "reactapp/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/reactapp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/reactapp.dll": {}
+        }
       }
     }
   },
@@ -5932,14 +5941,19 @@
         "system.xml.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xmldocument.nuspec"
       ]
+    },
+    "reactapp/1.0.0": {
+      "type": "project",
+      "path": "../reactapp/reactapp.esproj",
+      "msbuildProject": "../reactapp/reactapp.esproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "C:\\Users\\dolorian\\Documents\\Kkiller\\reactapp\\reactapp.esproj",
       "Microsoft.AspNet.WebApi.Cors >= 5.2.9",
       "Microsoft.AspNetCore.OpenApi >= 7.0.5",
-      "Swashbuckle.AspNetCore >= 6.4.0"
+      "Swashbuckle.AspNetCore >= 6.4.0",
+      "reactapp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6023,15 +6037,6 @@
     }
   },
   "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\Users\\dolorian\\Documents\\Kkiller\\reactapp\\reactapp.esproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Users\\dolorian\\Documents\\Kkiller\\reactapp\\reactapp.esproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
     {
       "code": "NU1701",
       "level": "Warning",

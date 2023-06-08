@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "p2tvc5E/ordKxAMi1MbPtWbsUFaMiU6sM/XnyJQxM3EIPTTPL8TCNs6NgOg8myDU5FQDOPcWPvsvT9pOClo7Ww==",
-  "success": false,
+  "dgSpecHash": "iQo9qjAkbEkiBtJaYY3BNw/9oekQ2yt22GrhSiG9QKfDcpd6pZSzQcpc1ZHD/TZK1CSP+L2sQEPG6KNQleWDUA==",
+  "success": true,
   "projectFilePath": "C:\\Users\\dolorian\\Documents\\Kkiller\\webapi\\webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dolorian\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.9\\microsoft.aspnet.cors.5.2.9.nupkg.sha512",
@@ -102,15 +102,6 @@
     "C:\\Users\\dolorian\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'C:\\Users\\dolorian\\Documents\\Kkiller\\reactapp\\reactapp.esproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "C:\\Users\\dolorian\\Documents\\Kkiller\\reactapp\\reactapp.esproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
     {
       "code": "NU1701",
       "level": "Warning",
